@@ -2,6 +2,18 @@
 
 The original and assessed datasets are large (over GitHub's upload size limit), so they are not included in this repository. The project focuses on the data quality assessment process and documentation.
 
+## Dataset
+
+The original and assessed datasets exceed GitHub's file size limit.
+
+You can download them here:
+
+- Original Dataset:
+  ([Google Drive Link](https://docs.google.com/spreadsheets/d/1AvSkHhTh550P0Vc3mX_OWvbkbcs9u9AC/edit?gid=1649506266#gid=1649506266))
+
+- Assessed Dataset:
+  ([Google Drive Link](https://docs.google.com/spreadsheets/d/1fu7mKQ0_4JZRukWZrKhNn9ixNhyI57oG/edit?gid=1773816000#gid=1773816000))
+
 ## Project Overview
 
 This project focuses on assessing the quality of a real-world food inspection dataset using Microsoft Excel.
